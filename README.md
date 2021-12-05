@@ -3,7 +3,7 @@
 
 Submitted by: Melissa Perez
 
-Time spent: **Working on it** hours spent in total
+Time spent: **2** hours spent in total so far, working on adding Edit feature
 
 ## User Stories
 
@@ -32,6 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Gradle build error prevented commons-io from working. (Update from Android Studio?)
+    * Created a new project that solved the issue and project ran after using commons-io.
 
 ## License
 
